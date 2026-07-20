@@ -62,17 +62,19 @@ Important: Enzymes do NOT provide energy, change final products, or make impossi
 
 Without enzyme: reactants face high activation energy hill. With enzyme: hill becomes smaller, reaction proceeds faster.
 
-Components: Apoenzyme (inactive protein part) + Cofactor (non-protein helper, metal ions or organic coenzymes) = Holoenzyme (complete active enzyme).
+Components: Apoenzyme (inactive protein part) + Cofactor (non-protein helper, metal ions or organic coenzymes) = Holoenzyme (complete active enzyme). Think: Apoenzyme = car without fuel, Holoenzyme = working car.
 
-Active site: Small pocket/cleft where substrate binds. Contains amino acid residues (His, Asp, Glu, Lys, Cys, Ser) that donate/accept protons, form temporary bonds, stabilize charges. Has two functions: (1) Binding - holds substrate, (2) Catalysis - changes substrate into product.
+Apoenzyme determines which substrate the enzyme recognizes. By itself it is inactive because it lacks something needed for catalysis. Cofactor is the non-protein helper required for activity. Two major kinds: (A) Metal ions (inorganic) - Mg²⁺, Zn²⁺, Fe²⁺/³⁺, Cu²⁺, Mn²⁺. Roles: stabilize negative charges, help bind substrates, participate in electron transfer, assist catalysis. Example: DNA polymerase requires Mg²⁺. (B) Organic cofactors (coenzymes) - derived from vitamins. NAD⁺/NADP⁺ from B3, FAD from B2, Coenzyme A from B5, TPP from B1, Biotin from B7. They carry electrons, hydrogen, carbon groups, amino groups. When apoenzyme binds cofactor → holoenzyme (fully active).
 
-E + S ⇌ ES → EP → E + P. Binding through weak interactions: hydrogen bonds, ionic interactions, hydrophobic interactions, van der Waals forces.
+Active site: Small pocket/cleft where substrate binds. Only a few amino acids perform catalysis: Histidine, Aspartate, Glutamate, Lysine, Cysteine, Serine. These can donate/accept protons, make temporary covalent bonds, stabilize electrical charges. Two functions: (1) Binding - holds substrate in correct orientation, ensures specificity, proper alignment. (2) Catalysis - converts substrate into product. Enzyme itself remains unchanged.
 
-Reaction steps: (1) Substrate approaches enzyme, (2) Substrate binds active site (E + S → ES), (3) Enzyme changes shape (induced fit), (4) Chemical reaction occurs (ES → EP), (5) Product leaves (EP → E + P), (6) Enzyme ready again.
+E + S ⇌ ES → EP → E + P. Binding through weak interactions: hydrogen bonds (O-H···O, weak but numerous), ionic interactions (NH3⁺ meets COO⁻), hydrophobic interactions (nonpolar molecules cluster away from water), van der Waals forces (very weak, thousands together become important).
 
-Transition state: Short-lived, high-energy intermediate between reactants and products. Enzymes work by stabilizing this state, lowering the energy needed to reach it. This is the key concept.
+Reaction steps: (1) Substrate approaches enzyme. (2) Substrate binds active site (E + S → ES). (3) Induced fit - enzyme changes shape slightly after binding, wraps around substrate, increases binding, positions catalytic amino acids, lowers activation energy. (4) Chemical reaction occurs (ES → EP). (5) Product leaves (EP → E + P). (6) Enzyme returns to original form, ready for another reaction. One enzyme can catalyze thousands or even millions of reactions.
 
-Four specificity types: (1) Absolute - one substrate only (urease on urea), (2) Group - particular functional groups (alcohol dehydrogenase), (3) Bond - specific bond types (lipase on ester bonds), (4) Stereochemical - one isomer only (L-amino acid oxidase).
+Transition state: The highest-energy, least stable arrangement of atoms during a chemical reaction. Exists for extremely short time between reactants and products. Like pushing a rock over a hill - top of hill is transition state, hill's height is activation energy (Ea). Without enzymes: high hill, slow reaction. With enzymes: lower hill, faster reaction. Enzymes bind the transition state more tightly than the substrate, stabilizing it and lowering Ea. Important: Enzymes do NOT change ΔG, equilibrium constant, or energies of reactants/products. They ONLY lower activation energy.
+
+Four specificity types: (1) Absolute - one substrate only (urease on urea → ammonia + CO₂). (2) Group - recognizes functional group (alcohol dehydrogenase oxidizes ethanol, methanol, propanol because all have –OH group). (3) Bond - recognizes specific bond type (lipase breaks ester bonds in fats). (4) Stereochemical - one isomer only (L-amino acid oxidase acts only on L-amino acids, not D).
 
 Two binding models: Lock-and-key (Fischer 1894, rigid complementarity) and Induced-fit (Koshland 1958, conformational change upon binding - accepted model). Induced fit allows better binding, better catalysis, and transition state stabilization.
 
@@ -90,7 +92,11 @@ Basic reaction: E + S ⇌ ES → E + P. The speed is called reaction velocity (V
 
 Factors determining velocity: (1) Substrate concentration, (2) Enzyme concentration, (3) Temperature, (4) pH, (5) Presence of inhibitors or activators.
 
-Substrate concentration effect: At low [S], few ES complexes form, reaction is slow. Increasing [S] → more collisions → more ES → faster reaction. Eventually all active sites occupied → enzyme saturated → adding more substrate does nothing.
+Temperature effect: As temperature increases, molecules move faster, collisions more frequent, rate increases - up to optimum (~37°C for human enzymes). Beyond optimum → denaturation (protein unfolds, active site destroyed, activity falls rapidly). Graph: activity rises to peak at 37°C then drops sharply.
+
+pH effect: Every enzyme has optimum pH because ionization state of amino acid side chains is crucial for binding and catalysis. Pepsin works in stomach (pH ≈ 2, very acidic). Trypsin works in small intestine (pH ≈ 8, slightly alkaline). Away from optimum: amino acid charges change, substrate binding disrupted, catalysis less efficient, activity decreases.
+
+Substrate concentration effect: At low [S], adding more substrate increases rate because many active sites are empty. Eventually every enzyme molecule has substrate bound → enzyme saturated → maximum rate (Vmax). After this point, adding more substrate does NOT increase rate. Graph: velocity rises steeply then plateaus at Vmax.
 
 Enzyme saturation: All active sites occupied by substrate, reaction rate at maximum. Think of a bus - when all seats occupied, more passengers cannot increase capacity.
 
@@ -104,11 +110,11 @@ Km and affinity relationship: Low Km = high affinity (only small substrate amoun
 
 Clinical importance of Km: Different enzymes have different Km values. Liver enzymes may have high Km because glucose levels fluctuate. Enzymes needing constant activity may have low Km.
 
+Cofactors: Many enzymes are inactive without their required cofactors (Zn²⁺, Mg²⁺, Fe²⁺, NAD⁺, FAD, Coenzyme A). Removing the cofactor often causes dramatic loss of activity.
+
+Inhibitors: Decrease enzyme activity. Common mechanisms: blocking active site (competitive), binding elsewhere and changing shape (noncompetitive/allosteric).
+
 Enzyme concentration effect: If substrate abundant, increasing enzyme concentration increases rate. More enzyme molecules = more active sites. 1 enzyme → 100 reactions/sec; 10 enzymes → 1000 reactions/sec.
-
-Temperature effect: Increasing temperature → more molecular movement → more collisions → higher rate, until optimum (~37°C for human enzymes). Beyond optimum → denaturation (loss of active site shape and activity).
-
-pH effect: Enzymes have optimum pH because amino acid side chains require specific charges. Changing pH alters protein structure, active site charge, substrate binding. Pepsin works at pH ≈ 2 (stomach), trypsin at pH ≈ 8 (intestine).
 
 Michaelis-Menten assumptions: (1) Enzyme concentration constant, (2) Substrate much greater than enzyme, (3) ES complex reaches steady state (formation equals breakdown).
 
@@ -168,15 +174,15 @@ Five major catalytic strategies: (1) General acid-base catalysis - proton donati
 ## c-enzyme-catalysis:summary
 Enzymes use multiple catalytic strategies to lower activation energy:
 
-(1) General acid-base catalysis: Enzyme groups transfer protons to/from substrates. Histidine most versatile (pKa ~6, near physiological pH) - can easily accept or donate H⁺. Other residues: Asp, Glu, Lys, Cys. Acid catalysis donates H⁺ (makes leaving groups easier to remove). Base catalysis accepts H⁺ (makes substrates more reactive).
+(1) General acid-base catalysis: Enzyme groups transfer protons to/from substrates. Histidine most versatile (pKa ~6, near physiological pH) - can easily accept or donate H⁺. Other residues: Asp, Glu, Lys, Cys. Acid catalysis donates H⁺ (makes leaving groups easier to remove). Base catalysis accepts H⁺ (makes substrates more reactive). Digestive enzymes often use histidine to move protons during peptide bond hydrolysis.
 
-(2) Covalent catalysis: Enzyme forms temporary covalent bond with substrate, creating intermediate that lowers activation energy. Divides one large energy barrier into smaller steps. Nucleophilic groups attack electron-poor areas: Serine (-OH), Cysteine (-SH), Lysine (-NH₂). Example: Trypsin (serine protease) - serine attacks peptide bond.
+(2) Covalent catalysis: Enzyme forms temporary covalent bond with substrate, creating intermediate that lowers activation energy. Divides one large energy barrier into smaller steps. Nucleophilic groups attack electron-poor areas: Serine (-OH), Cysteine (-SH), Lysine (-NH₂). Example: Serine proteases (trypsin, chymotrypsin) use serine residue to form temporary covalent bond with peptide substrate before breaking it.
 
-(3) Metal-ion catalysis: Three major roles - (A) Charge stabilization (Mg²⁺ stabilizes negative charges), (B) Water activation (Zn²⁺ in carbonic anhydrase binds H₂O → OH⁻ which attacks CO₂), (C) Oxidation-reduction (Fe²⁺/Fe³⁺ in cytochromes for electron transfer).
+(3) Metal-ion catalysis: Three major roles - (A) Charge stabilization (negative charges develop during reactions, metal ions stabilize them), (B) Water activation (Zn²⁺ in carbonic anhydrase converts water into hydroxide OH⁻, a much stronger nucleophile, enabling CO₂ + H₂O → H₂CO₃), (C) Oxidation-reduction (Fe²⁺/Fe³⁺ and Cu⁺/Cu²⁺ easily gain and lose electrons, useful in redox reactions).
 
-(4) Catalysis by approximation: Enzyme positions substrates close together in correct orientation. Increases effective collisions. Random collisions inefficient - molecules must collide at correct angle with correct atoms aligned. Example: DNA polymerase brings DNA template + nucleotide together.
+(4) Catalysis by approximation: Enzyme positions substrates close together in correct orientation. Like gluing two beads - random floating is difficult, holding them together is easy. Reduces entropy cost and greatly increases chance of bond formation. Example: DNA polymerase brings DNA template + nucleotide together.
 
-(5) Cofactor catalysis: Requires nonprotein helpers. Inorganic (metal ions: Mg²⁺, Zn²⁺, Fe²⁺) or organic (coenzymes: NAD⁺, FAD, CoA, PLP from vitamin B6). Example: PLP transfers amino groups in amino acid metabolism.
+(5) Cofactor catalysis: Requires nonprotein helpers. Inorganic (metal ions: Mg²⁺, Zn²⁺, Fe²⁺) or organic (coenzymes: NAD⁺, FAD, CoA, PLP from vitamin B6). PLP is essential in many amino acid reactions (transamination, decarboxylation) because it can temporarily stabilize reaction intermediates.
 
 Real enzymes often combine strategies. Carbonic anhydrase uses metal-ion + acid-base. Trypsin uses covalent + acid-base.
 
@@ -196,7 +202,15 @@ The active site is the catalytic region where substrate binds and reaction occur
 Two models explain substrate binding: (1) Lock-and-Key (Fischer, 1894) - rigid complementarity between enzyme and substrate; (2) Induced-Fit (Koshland, 1958) - substrate binding induces conformational change in active site. Most enzymes show features of both models.
 
 ## c-substrate-binding:summary
-Substrate binding involves structural complementarity. Lock-and-key assumes rigid shapes; induced-fit allows conformational changes. Real enzymes combine both mechanisms to varying degrees for optimal catalysis.
+Two models explain substrate binding:
+
+Lock-and-key (Fischer, 1894): Active site is rigid, already has perfect shape for substrate. Like key fitting into lock. Explains specificity, easy to understand. Limitations: cannot explain why enzymes change shape during catalysis, how transition states are stabilized, or why enzymes bind transition states better than substrates. No longer the accepted model.
+
+Induced-fit (Koshland, 1958): The accepted model. Active site is flexible, not rigid. When substrate binds, enzyme changes shape to fit more closely - "wraps around" substrate like putting hand into soft glove.
+
+Why induced fit is better: (1) Better substrate binding - enzyme grips substrate more tightly. (2) Better catalysis - catalytic amino acids move into exactly the right positions (Ser too far apart → Ser—Substrate in perfect position). (3) Stabilizes the transition state - most important reason. Enzyme changes shape to bind unstable transition state more strongly than substrate, lowering activation energy.
+
+Comparison: Lock-and-key = rigid site, no shape change, explains specificity but not catalysis or transition state stabilization, historical model. Induced-fit = flexible site, shape changes after binding, explains specificity AND catalysis AND transition state stabilization, accepted model.
 
 ## c-transition-state
 For reactions to occur, substrates must reach transition state - the highest energy level between substrate and product. Enzymes lower activation energy by stabilizing transition state. Rate depends on how easily reactants reach this state.
