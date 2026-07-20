@@ -1,0 +1,14 @@
+# Ken package manifest
+id: diamondBelema/bioenergetics
+name: Bioenergetics
+version: 1.0.0
+author: diamondBelema
+description: ""
+license: ""
+subjects:
+    - bioenergetics
+concepts: 48
+flashcards: 0
+tags: []
+dependencies: []
+repository: https://github.com/diamondBelema/bioenergetics
